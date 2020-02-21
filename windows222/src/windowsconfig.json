@@ -1,0 +1,27 @@
+{
+	"常用": [{
+		"IDEA":"D:/soft/Program Files/JetBrains/IntelliJ IDEA 2019.3/bin/idea64.exe",
+		"eclipse": "D:/soft/Program Files/eclipse-jee-2019-03-R-win32-x86_64/eclipse/eclipse.exe",
+		"firefox": "C:/Program Files/Mozilla Firefox/firefox.exe",
+		"chrome": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+		"微信": "D:/Soft/Program Files (x86)/Tencent/WeChat/WeChat.exe",
+		"TIM": "D:/Soft/Program Files (x86)/Tencent/TIM/Bin/QQScLauncher.exe",
+		"XMind": "D:/soft/Program Files (x86)/XMind/XMind.exe",
+		"HBuilderX": "D:/soft/Program Files/HBuilderX/HBuilderX.exe",
+		"heidisql": "D:/soft/Program Files/HeidiSQL/heidisql.exe",
+		"Postman": "D:/常用工具/Postman.lnk",
+		"tomcat": "D:/work/apache-tomcat-8.5.39-windows-x64/apache-tomcat-8.5.39/bin/"
+	}],
+	"目录": [{
+		"soft": "D:/soft",
+		"list配置": "D:/SoftText/windowstoo2.1.0/windowstoo2.1.0/SoftText/list",
+		"WordList": "D:/Git/workspaces001/WordList"
+	}],
+
+	"软件": [{
+		"Foxmail": "D:/soft/Program Files/Foxmail 7.2/Foxmail.exe",
+		"WinSCP": "C:/Program Files (x86)/WinSCP/WinSCP.exe",
+		"putty": "C:/Program Files/PuTTY/putty.exe",
+		"navicat": "D:/soft/Program Files/PremiumSoft/Navicat Premium 12/navicat.exe"
+	}]
+}
